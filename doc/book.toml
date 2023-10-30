@@ -1,3 +1,6 @@
 [book]
-title = "MonGeo User Guide"
-
+authors = ["José Garrido"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MonGeo User's Guide"
