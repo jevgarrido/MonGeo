@@ -20,3 +20,4 @@ target/
 
 # Ignore auto-generated tags files
 **/tags
+**/tags.*
