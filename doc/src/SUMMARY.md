@@ -3,4 +3,5 @@
 [Introduction](intro.md)
 
 - [Modes](modes.md)
-- [Commands](commands.md)
+- [Projection Mode Commands](projection_commands.md)
+- [Algebraic Mode Commands](commands.md)
